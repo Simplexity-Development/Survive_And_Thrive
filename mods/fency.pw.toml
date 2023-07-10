@@ -1,0 +1,14 @@
+name = "The Fence Unleashed"
+filename = "TheFenceUnleashed-1.0.2-1.20.1-0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lO0swhFU/versions/mA9ALYhn/TheFenceUnleashed-1.0.2-1.20.1-0.0.jar"
+hash-format = "sha512"
+hash = "88cbcdb72cef1e65cca7f42292bcbd3b224b3e73c21a5b34e2e0b46e95a33db327534754924ceb3e2d2d0a99ca2488e940405f7383e88c9cbf9350f8fbecae89"
+
+[update]
+[update.modrinth]
+mod-id = "lO0swhFU"
+version = "mA9ALYhn"

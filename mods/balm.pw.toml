@@ -1,0 +1,14 @@
+name = "Balm"
+filename = "balm-forge-1.20-7.0.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/i8CwYuCi/balm-forge-1.20-7.0.4.jar"
+hash-format = "sha512"
+hash = "19a011c666c023198628f6d7c101970a17af9a0b5f7d546a7a7b0d2c83f1f6add528fa06f3c1ca845345d54050fd82fb1a7eedaca5c58ec9760079d643d6e8c9"
+
+[update]
+[update.modrinth]
+mod-id = "MBAkmtvl"
+version = "i8CwYuCi"

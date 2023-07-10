@@ -1,0 +1,14 @@
+name = "Mutant Monsters"
+filename = "MutantMonsters-v8.0.2-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/derP0ten/versions/55VYRSqD/MutantMonsters-v8.0.2-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "ccd32d6a73fd5637c7520aca14366094c0eb3268090799ae98eee2ba22e221582aeef5fb5e90e0bc92f88f964a310cd42f1c1abaeef24a9fa0aeaa0ac516228b"
+
+[update]
+[update.modrinth]
+mod-id = "derP0ten"
+version = "55VYRSqD"

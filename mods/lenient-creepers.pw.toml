@@ -1,0 +1,14 @@
+name = "Lenient Creepers"
+filename = "lenientcreepers-1.20-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OG0fu1Pt/versions/k5hZKdMF/lenientcreepers-1.20-1.0.2.jar"
+hash-format = "sha512"
+hash = "707c01897f377d8ff9367f01bd1ac6642b0ed869e773da6fc2b627cb50fdad488d6d42c5a36b8546411fef9346216e6f375abe836dc0883077867c8d5d4f0c7f"
+
+[update]
+[update.modrinth]
+mod-id = "OG0fu1Pt"
+version = "k5hZKdMF"

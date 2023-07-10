@@ -1,0 +1,14 @@
+name = "Model Gap Fix"
+filename = "modelfix-1.14.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/QdG47OkI/versions/fbaUxdx3/modelfix-1.14.jar"
+hash-format = "sha512"
+hash = "a1ae3f750a323927508fcf9b6fe43deddefd6ac32687ade5d37283e93e178bdfa3629e719dbdedaf2717f317150f0f47f252ba75ab317663e89964ab7ed3d587"
+
+[update]
+[update.modrinth]
+mod-id = "QdG47OkI"
+version = "fbaUxdx3"

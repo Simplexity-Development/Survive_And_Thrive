@@ -1,0 +1,14 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-1.20.1-0.3.2.161.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Q2OqKxDG/versions/OYPnvpWF/BetterAdvancements-1.20.1-0.3.2.161.jar"
+hash-format = "sha512"
+hash = "34d0372ee80e6f88d3836e180aa31fac4ab30a4b27229d3822a6636a6176a8b6f76026c31ae0101e5ec45566ab51bb0dc4f942e7e80b1b30eb5432b2b9af0e1c"
+
+[update]
+[update.modrinth]
+mod-id = "Q2OqKxDG"
+version = "OYPnvpWF"

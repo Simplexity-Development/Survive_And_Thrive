@@ -1,0 +1,14 @@
+name = "AutoTools"
+filename = "autotools-1.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zgVJyCgK/versions/Y5Tbok99/autotools-1.6-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "7f9907d7283bd3280424e52c0542236f14d094374025df0fdb238fe483312f66b39c5fc2d005c9d5a8c1c3d851dd436b3206feb823165bd25fe2f7bc2560ccc0"
+
+[update]
+[update.modrinth]
+mod-id = "zgVJyCgK"
+version = "Y5Tbok99"

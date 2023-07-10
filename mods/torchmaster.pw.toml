@@ -1,0 +1,14 @@
+name = "TorchMaster"
+filename = "torchmaster-20.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Tl8ESrhX/versions/gw94H8MZ/torchmaster-20.1.0.jar"
+hash-format = "sha512"
+hash = "7b2f49e3eb0e5517f0593df8c63af43cb2e4da5e99805bc50bbad0f182cbe0bc24046aa615750d6f76be8743489c8bb8fe4d42d134fc354a8dda1cb3bf2c1ddf"
+
+[update]
+[update.modrinth]
+mod-id = "Tl8ESrhX"
+version = "gw94H8MZ"

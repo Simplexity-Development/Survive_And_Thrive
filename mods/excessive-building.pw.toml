@@ -1,0 +1,14 @@
+name = "Miri's Excessive Building"
+filename = "excessive_building-forge-1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2vsx0HYf/versions/6cw6Wk78/excessive_building-forge-1.20.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "aed61942c1a14a377327cc0ce7c6df00d8fb6cf01f370bb64ce5f63741ebdf1cfc0a56ad68394c7dfd7c95d4a09d6c6bb44b4f222d931abe0ae514a4a083790b"
+
+[update]
+[update.modrinth]
+mod-id = "2vsx0HYf"
+version = "6cw6Wk78"

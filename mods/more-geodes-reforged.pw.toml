@@ -1,0 +1,14 @@
+name = "More Geodes Reforged"
+filename = "more-geodes-reforged-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UoWImNDD/versions/RGAkgzz1/more-geodes-reforged-1.1.1.jar"
+hash-format = "sha512"
+hash = "ebf5e31b29548fb2b43d8bced1d97a1ed4b76fed28f924a9786930dad36ce25bdb61b8a534b8759d21008957e39ac8cab8578dc2b1ebb5b53f80d4e00b534d48"
+
+[update]
+[update.modrinth]
+mod-id = "UoWImNDD"
+version = "RGAkgzz1"

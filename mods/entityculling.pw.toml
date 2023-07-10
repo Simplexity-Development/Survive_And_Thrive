@@ -1,0 +1,14 @@
+name = "Entity Culling"
+filename = "entityculling-forge-1.6.2-mc1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/374z4jcq/entityculling-forge-1.6.2-mc1.20.jar"
+hash-format = "sha512"
+hash = "00c03643642a811d72d48a6a370efbe220753b3836ea4c040ee56495cc1566e75ca1c5cc9f834f99733757dc56eaed3c90fb4b0092adfa992314f1cc816a5919"
+
+[update]
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "374z4jcq"

@@ -1,0 +1,14 @@
+name = "Vein Mining"
+filename = "veinmining-forge-1.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/bRAPbNyF/versions/cqlYt3pD/veinmining-forge-1.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "61b0cbd2620f7243cf420800e8c3beacd2c9c130dce670ea6aa7be22b460722f875071bb74e615482c94638e7127a12df781ef73a1bf06a7029c89ccc563a5b5"
+
+[update]
+[update.modrinth]
+mod-id = "bRAPbNyF"
+version = "cqlYt3pD"

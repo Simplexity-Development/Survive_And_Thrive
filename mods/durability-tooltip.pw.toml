@@ -1,0 +1,14 @@
+name = "Durability Tooltip"
+filename = "durabilitytooltip-1.1.4-forge-mc1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/smUP7V3r/versions/ur4Yb3Dn/durabilitytooltip-1.1.4-forge-mc1.20.jar"
+hash-format = "sha512"
+hash = "7e3c8ee61b1565f1b796b6e64e8595ba0df2206671d655f23b1f1873851dcacfff0418ebb4e0a466fe51beee046ba551ec37e5432b1e9410c06c1079985f6728"
+
+[update]
+[update.modrinth]
+mod-id = "smUP7V3r"
+version = "ur4Yb3Dn"

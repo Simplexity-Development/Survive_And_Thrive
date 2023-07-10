@@ -1,0 +1,14 @@
+name = "Suggestion Tweaker"
+filename = "suggestion-tweaker-1.20-1.4.2-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MBLj38R0/versions/jUEV9Wmi/suggestion-tweaker-1.20-1.4.2-forge.jar"
+hash-format = "sha512"
+hash = "c949919dd834ee032ecb6eee9202e046ffc3b45a7b58bf9678e9492e4b387b541060247cecea60d55be2fcf3dc02aa354ff1356d2b79a688689bdb388168e7ac"
+
+[update]
+[update.modrinth]
+mod-id = "MBLj38R0"
+version = "jUEV9Wmi"

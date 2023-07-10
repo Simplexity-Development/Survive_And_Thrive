@@ -1,0 +1,14 @@
+name = "mclo.gs"
+filename = "mclogs-forge-1.4.2-1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6DdCzpTL/versions/xzRGr4AC/mclogs-forge-1.4.2-1.20.jar"
+hash-format = "sha512"
+hash = "ee5dfbf9ebc8e0e3771dd97a8bc374c818a69ab3b05dfd83ff3bc1fc82b5e5f74384b4c50b9e8c805f4fb961cacffba03767c2e9980cd98200f06a6077289d6c"
+
+[update]
+[update.modrinth]
+mod-id = "6DdCzpTL"
+version = "xzRGr4AC"

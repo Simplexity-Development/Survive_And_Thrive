@@ -1,0 +1,14 @@
+name = "Botany Trees"
+filename = "BotanyTrees-Forge-1.20-8.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mvs7RoIW/versions/dTf9Bniw/BotanyTrees-Forge-1.20-8.0.1.jar"
+hash-format = "sha512"
+hash = "23f116203061f9ecb94624fcb4425b1892e18063221b1855d279e37864da0eb169ca22fa97380e20336637573f0feb6bfa593c2e19ef59ee66f69ba91fd14aa1"
+
+[update]
+[update.modrinth]
+mod-id = "mvs7RoIW"
+version = "dTf9Bniw"

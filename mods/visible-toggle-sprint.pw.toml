@@ -1,0 +1,14 @@
+name = "Visible Toggle Sprint"
+filename = "VisibleToggleSprint-forge-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/kwcjLDqx/versions/STmV9NlB/VisibleToggleSprint-forge-1.20.1-1.5.1.jar"
+hash-format = "sha512"
+hash = "be874e81667c8b007220702c4028927d3ee222397a2380dd307288aaa7b266da96d327bf03243b9e5206f41f4443d8738b5f38351688fb032e009e5bcd5e1b5d"
+
+[update]
+[update.modrinth]
+mod-id = "kwcjLDqx"
+version = "STmV9NlB"

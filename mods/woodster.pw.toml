@@ -1,0 +1,14 @@
+name = "Woodster"
+filename = "Woodster-1.4.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/KUvvZvJn/versions/S18mjMKm/Woodster-1.4.3.jar"
+hash-format = "sha512"
+hash = "ddccad3d2e28b2a56ddde7bcb17f42e669d0cec38f7f411fcb2d998a3b8f2fd75b1cf37b141a9921f9afe78103a69d18dc160d3a309b92eaa1d5b06680387f54"
+
+[update]
+[update.modrinth]
+mod-id = "KUvvZvJn"
+version = "S18mjMKm"

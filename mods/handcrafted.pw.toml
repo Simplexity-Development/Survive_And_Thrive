@@ -1,0 +1,14 @@
+name = "Handcrafted"
+filename = "handcrafted-forge-1.20-2.3.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/M0X2ttRF/handcrafted-forge-1.20-2.3.2.jar"
+hash-format = "sha512"
+hash = "40d40a0f9050f44b0830ce733930cb77fa1f010b9bec5f0efd198bc78781743dbcca027327a200c765dfe659e0f8097583805fd7e24e9d9a18a80522754a8ab7"
+
+[update]
+[update.modrinth]
+mod-id = "pJmCFF0p"
+version = "M0X2ttRF"
