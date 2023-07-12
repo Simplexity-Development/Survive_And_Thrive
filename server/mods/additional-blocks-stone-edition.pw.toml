@@ -1,0 +1,14 @@
+name = "Additional Blocks: Stone Edition"
+filename = "abstoneedition-2.1.3-forge-mc1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/FSzRTvY9/versions/S1atar30/abstoneedition-2.1.3-forge-mc1.20.jar"
+hash-format = "sha512"
+hash = "de121293706a153246c9af1e0a90bdd0fa270a8fea2d2b34caa07cf03944904a615b03001b39b83658cfecc57b033ef67566c06f1093861dd1801d66b863cbdb"
+
+[update]
+[update.modrinth]
+mod-id = "FSzRTvY9"
+version = "S1atar30"

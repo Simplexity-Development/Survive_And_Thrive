@@ -1,0 +1,14 @@
+name = "Collective"
+filename = "collective-1.20.1-6.63.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/JMGRft2S/collective-1.20.1-6.63.jar"
+hash-format = "sha512"
+hash = "5758dc5b18b913db585c5ecc6ba3240c9bf103a9d42a60f30f8bfda4dde6ee2cd3d67a4925d35897f66b4d216590e0a424ca54da44d5795d900bfa8d210ad716"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "JMGRft2S"

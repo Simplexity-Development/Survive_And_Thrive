@@ -1,0 +1,14 @@
+name = "Simple Hats"
+filename = "simplehats-forge-1.20.1-0.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iSkQCp6b/versions/oGYt9hjb/simplehats-forge-1.20.1-0.2.1.jar"
+hash-format = "sha512"
+hash = "246e85ac7eab5b5e000c8a936f8ba1038264a34a985225fed65fc937d80cefe15adb39b805bfcdf98b96677dae281aa8120b3b203bf9fd8e79a1252ba16393de"
+
+[update]
+[update.modrinth]
+mod-id = "iSkQCp6b"
+version = "oGYt9hjb"

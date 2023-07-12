@@ -1,0 +1,14 @@
+name = "More Mob Variants"
+filename = "moremobvariants-forge+1.20-1.2.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JiEhJ3WG/versions/VxRA0Nwd/moremobvariants-forge%2B1.20-1.2.2.jar"
+hash-format = "sha512"
+hash = "1725ff258247609842528c5cf984d44f38b2e5dedc05fc407a6355b50f2e63b3605bf4e737916f5c25955e8a4ed8af958aac12525db3f3fdc0e44c6f4e02a2ed"
+
+[update]
+[update.modrinth]
+mod-id = "JiEhJ3WG"
+version = "VxRA0Nwd"

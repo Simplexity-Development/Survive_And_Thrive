@@ -1,0 +1,14 @@
+name = "Easy Magic"
+filename = "EasyMagic-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/p7l3vBEe/EasyMagic-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "2080e59fc2afc16d54ffd86497d3d36c46a76df4ef04d1e955068fc7a9410e0a4e748538137347be72f21fa02ab84219bea23dbe21b285501d359b73411acc82"
+
+[update]
+[update.modrinth]
+mod-id = "9hx3AbJM"
+version = "p7l3vBEe"

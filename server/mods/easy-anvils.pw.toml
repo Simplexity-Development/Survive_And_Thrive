@@ -1,0 +1,14 @@
+name = "Easy Anvils"
+filename = "EasyAnvils-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/pcDw1xwF/EasyAnvils-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "29c2ee7a7ada5d1cbc377ad9f6b133a28a97ea591c882cef6b1a2876df680ff0108069b1ef79de273f7fc5cd021b2ed471fc8f3109928bbc02ecbc42a2038e6b"
+
+[update]
+[update.modrinth]
+mod-id = "OZBR5JT5"
+version = "pcDw1xwF"

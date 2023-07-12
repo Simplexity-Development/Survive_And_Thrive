@@ -1,0 +1,14 @@
+name = "Castle Dungeons"
+filename = "castle_dungeons-4.0.0-1.20-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/etpVl23u/versions/WpZpgvMd/castle_dungeons-4.0.0-1.20-forge.jar"
+hash-format = "sha512"
+hash = "6774a256be1d469647194a885a3e80674feba6febcfdfddfc39ef594686f664fd61a38ac74599faf5e96b1439cceccec3d34f5a870aecbb010551d4c497dbd5a"
+
+[update]
+[update.modrinth]
+mod-id = "etpVl23u"
+version = "WpZpgvMd"

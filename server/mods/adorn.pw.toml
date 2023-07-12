@@ -1,0 +1,14 @@
+name = "Adorn"
+filename = "Adorn-5.0.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/1gIaqVd1/Adorn-5.0.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "3a6c3fd9f5080ff4e98b2cf4fda6e40f38214abe08217de65316cd48a2f1a057e3224438abed4910999054779fb2b8cd6277876d076b54d74d7e6fd81582bdea"
+
+[update]
+[update.modrinth]
+mod-id = "E6FUtRJh"
+version = "1gIaqVd1"

@@ -1,0 +1,14 @@
+name = "LuckPerms"
+filename = "LuckPerms-Forge-5.4.88.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Vebnzrzj/versions/D8WIgFFv/LuckPerms-Forge-5.4.88.jar"
+hash-format = "sha512"
+hash = "5e0a5a1ed739bee688f0643fc8e057d04f84fbb01990c23d2127387a7beeb8a79c35b15604afbe04d0c2856eb4138c1e4dc95143da35cf85c0a3be61ec56fcaa"
+
+[update]
+[update.modrinth]
+mod-id = "Vebnzrzj"
+version = "D8WIgFFv"

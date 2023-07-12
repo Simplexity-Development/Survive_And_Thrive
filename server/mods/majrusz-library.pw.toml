@@ -1,0 +1,14 @@
+name = "Majrusz Library"
+filename = "majrusz-library-1.20-4.3.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/PYQD8noM/versions/qVmYR8dt/majrusz-library-1.20-4.3.2.jar"
+hash-format = "sha512"
+hash = "2c0887533ad1a7acbe84599c7005e84695e8345c054ee3b56d609b753215c3e661397e0bc69ac16b390cc70741df90c7b59cf999a092259ae35956397f8b039e"
+
+[update]
+[update.modrinth]
+mod-id = "PYQD8noM"
+version = "qVmYR8dt"

@@ -1,0 +1,14 @@
+name = "ChickensShed"
+filename = "chickensshed-1.4.0-0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/cRJuLZ2D/versions/9FWMCfcm/chickensshed-1.4.0-0.jar"
+hash-format = "sha512"
+hash = "4f44fb78323746311c4d061b70298d60c82a456f52af627d13f3fdb312a81674d7f0713b24160a739500a4562bdb9f32ac8352cdfc68edf8f160bf56fda4dd7b"
+
+[update]
+[update.modrinth]
+mod-id = "cRJuLZ2D"
+version = "9FWMCfcm"

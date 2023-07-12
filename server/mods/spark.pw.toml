@@ -1,0 +1,14 @@
+name = "spark"
+filename = "spark-1.10.42-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/Yp6s4wsw/spark-1.10.42-forge.jar"
+hash-format = "sha512"
+hash = "a72de25b5bfd9d1a9b657983495ac72d61f31fd8dc277cc072c1dfc2e80ae616796d83c7b60532fc962efe562bc3fcc3dcd0b90c658a56249195282c097ff1df"
+
+[update]
+[update.modrinth]
+mod-id = "l6YH9Als"
+version = "Yp6s4wsw"

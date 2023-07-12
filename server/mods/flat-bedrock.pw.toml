@@ -1,0 +1,14 @@
+name = "flat-bedrock"
+filename = "flatbedrock-forge-3.0.0-build.16+mc1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZYLnkiVu/versions/C5k8hs4u/flatbedrock-forge-3.0.0-build.16%2Bmc1.20.jar"
+hash-format = "sha512"
+hash = "dd44e10ab30af4db13f950216361256dcd4acd97f39bd04293ebc00fdd10390e99e042f3c8d6cae15d748ccd379787a19255484a482fe75ce161942786160520"
+
+[update]
+[update.modrinth]
+mod-id = "ZYLnkiVu"
+version = "C5k8hs4u"
