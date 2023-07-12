@@ -386,6 +386,16 @@ hash = "532c68f58498fb3d9c3da50dea235b6918301e143b4e12a8d5dc3884917a5b1c"
 metafile = true
 
 [[files]]
+file = "mods/jea.pw.toml"
+hash = "1a2d86041b7abbc7ae3ebc60a62b08033265be94cf38e6b3998a0eae181e7533"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e1b387dcdf597be94a192451e5c38ab912c87ac6bcdc2df355529970d1c80143"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "6c1f09c5ceac6bd1cfeb0cd625efa1b48ae7293e87ad4af042b8d9fc33d9e62b"
 metafile = true
@@ -393,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/lenient-creepers.pw.toml"
 hash = "c02265ff8651ab068b4f78c7dbb8ad69a23b4808e816eb7dfd942ba94e70533c"
+metafile = true
+
+[[files]]
+file = "mods/libx.pw.toml"
+hash = "ff98f0bd6e81dba6cf67f00b3ad737d921338812cd82ae241b0d24458d2aa129"
 metafile = true
 
 [[files]]
