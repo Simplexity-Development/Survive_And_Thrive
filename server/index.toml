@@ -226,6 +226,11 @@ hash = "8dc6cdcbfa9c83d876c08373e3af118a67c7613e39b95a0f3efbf1a6f4b6c556"
 metafile = true
 
 [[files]]
+file = "mods/disenchantingforge.pw.toml"
+hash = "6ebf3321964ce65470700ae2e12238dcb36057844ec98bd9f6f9673e1b3920be"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "991f9407920f87eb3de1ce78067e5e850fafaa1d75c38beffbc50a57b8a535ff"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "a60d065c4694b18a430b505b163a9ae7085cd9bf84708763ec7f4cec0c300769"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-armor-and-weapons.pw.toml"
+hash = "5f7e401164d1a4e4d00e7b1e6254bf1828c9be9499a8e373ced6ffa6e1c1abc6"
 metafile = true
 
 [[files]]
@@ -356,6 +366,11 @@ hash = "40fd743cdc9e515c05929aee9cb640c9029f160919e3d2a100383094fbfd232c"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "b93b6c1d70c3f18cacd25a7d1c0688b899bbe610e2a3f6bd013c36e34ef14298"
+metafile = true
+
+[[files]]
 file = "mods/iron-bookshelves.pw.toml"
 hash = "588fd5f607dd513b49673ad19ef6780880e79a8c934bb14093863bf3fc09001d"
 metafile = true
@@ -388,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "71e2236ce9d08b3690e088dc3d39d51e971e288d906e99c27b4edc041432cb27"
+metafile = true
+
+[[files]]
+file = "mods/lostfeatures.pw.toml"
+hash = "7bba8929c8aaec586f51c8a16766f68d91144542ebf9c6a78a835c3dd6a99062"
 metafile = true
 
 [[files]]
@@ -571,6 +591,11 @@ hash = "eae4a2edf663f446459797e1a32db22c0aee20ae795dd9cbbf23478fc31f90de"
 metafile = true
 
 [[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "490d0b8bf34484754114bdac2f1f2f58e183167d56a65daf33d49d9d38207904"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "9be684d499b7a3ded926f563bdda4f7b8950f3cad6160b763b76de5798742bb3"
 metafile = true
@@ -598,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "6e6880efb5ff5701380b75ea8736d4fcc03c3fe351988e4b5a577b1838469447"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "e4fa357a62886c74fca72b1af1ade950bc6881950593f1c650975de216a19d49"
 metafile = true
 
 [[files]]
@@ -643,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "3c04d164f0baab2795eea83db27891484d42e3d5f3b8638ea25f5c61731c2e59"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "e7b28629139148a5a6caf13f70ebb18e6ab780d96446a4441d91cd750620af62"
 metafile = true
 
 [[files]]

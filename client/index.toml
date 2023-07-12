@@ -271,6 +271,11 @@ hash = "8dc6cdcbfa9c83d876c08373e3af118a67c7613e39b95a0f3efbf1a6f4b6c556"
 metafile = true
 
 [[files]]
+file = "mods/disenchantingforge.pw.toml"
+hash = "6ebf3321964ce65470700ae2e12238dcb36057844ec98bd9f6f9673e1b3920be"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "991f9407920f87eb3de1ce78067e5e850fafaa1d75c38beffbc50a57b8a535ff"
 metafile = true
@@ -316,11 +321,6 @@ hash = "439dd0b9ae0a5ac5a3b97bc0ac8b2c2f1747fd5a9e76b14b4f701ceb8d69ee3f"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "a60d065c4694b18a430b505b163a9ae7085cd9bf84708763ec7f4cec0c300769"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "980bfb65e069be29513fccdc7e31b2aef19df60b8cdb313b6c0c3b5a4ee932ca"
 metafile = true
@@ -328,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2d647b3b6a00a9033f23a79f62ea8b391ae9c45a798508aa3c47c7893cd57ec2"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-armor-and-weapons.pw.toml"
+hash = "5f7e401164d1a4e4d00e7b1e6254bf1828c9be9499a8e373ced6ffa6e1c1abc6"
 metafile = true
 
 [[files]]
@@ -456,6 +461,31 @@ hash = "532c68f58498fb3d9c3da50dea235b6918301e143b4e12a8d5dc3884917a5b1c"
 metafile = true
 
 [[files]]
+file = "mods/jea.pw.toml"
+hash = "1a2d86041b7abbc7ae3ebc60a62b08033265be94cf38e6b3998a0eae181e7533"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e1b387dcdf597be94a192451e5c38ab912c87ac6bcdc2df355529970d1c80143"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "1d6f148d4c65fcfdf2aeeda3f4cf9c3fdaf62104b453b283096c8c67f0881f58"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "9e5732f3917404045283ab34b6e525915cadf27ba220ffb9cda914a8735b31d9"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "b98c430fd57efb70efc63a66a36f0fbebb132bb30150c36591f21ffdd6e3c0e2"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "4775b2727fd026a5b687307bc2b1fdfa33fb8e71782b99deb775466dc1a8f4d6"
 metafile = true
@@ -471,6 +501,11 @@ hash = "c02265ff8651ab068b4f78c7dbb8ad69a23b4808e816eb7dfd942ba94e70533c"
 metafile = true
 
 [[files]]
+file = "mods/libx.pw.toml"
+hash = "ff98f0bd6e81dba6cf67f00b3ad737d921338812cd82ae241b0d24458d2aa129"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "4557fd23325f2658f5c71a7cd2bdd37dbbedfce42ec95153a6fa21090bd6fb08"
 metafile = true
@@ -483,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "71e2236ce9d08b3690e088dc3d39d51e971e288d906e99c27b4edc041432cb27"
+metafile = true
+
+[[files]]
+file = "mods/lostfeatures.pw.toml"
+hash = "7bba8929c8aaec586f51c8a16766f68d91144542ebf9c6a78a835c3dd6a99062"
 metafile = true
 
 [[files]]
@@ -696,6 +736,11 @@ hash = "f16972364e19145660944d179dd55d0f7252004b8f32fce07a4ca4ef52c045c1"
 metafile = true
 
 [[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "490d0b8bf34484754114bdac2f1f2f58e183167d56a65daf33d49d9d38207904"
+metafile = true
+
+[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "9be684d499b7a3ded926f563bdda4f7b8950f3cad6160b763b76de5798742bb3"
 metafile = true
@@ -738,6 +783,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "6e6880efb5ff5701380b75ea8736d4fcc03c3fe351988e4b5a577b1838469447"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "e4fa357a62886c74fca72b1af1ade950bc6881950593f1c650975de216a19d49"
 metafile = true
 
 [[files]]
@@ -788,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "3c04d164f0baab2795eea83db27891484d42e3d5f3b8638ea25f5c61731c2e59"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "e7b28629139148a5a6caf13f70ebb18e6ab780d96446a4441d91cd750620af62"
 metafile = true
 
 [[files]]

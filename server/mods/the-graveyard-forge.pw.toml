@@ -1,0 +1,14 @@
+name = "The Graveyard (FORGE)"
+filename = "The_Graveyard_2.6.2_(FORGE)_for_1.20+.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/U1jdQuSf/versions/Nl7kbAXd/The_Graveyard_2.6.2_%28FORGE%29_for_1.20%2B.jar"
+hash-format = "sha512"
+hash = "8f7e53e6e19f23b15a7488ea3c0adc1531b4a2cb7f160327b08a95b5bc8e176e8f7b5273f8341a11a4d00007d1efbdbfdff389c4ec87e0b7d209dde386049c04"
+
+[update]
+[update.modrinth]
+mod-id = "U1jdQuSf"
+version = "Nl7kbAXd"
