@@ -1,14 +1,14 @@
 name = "Cristel Lib"
-filename = "cristellib-forge-1.1.0.jar"
+filename = "cristellib-1.1.2-forge.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/cl223EMc/versions/FsQL6FXV/cristellib-forge-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/cl223EMc/versions/VGzwSAM8/cristellib-1.1.2-forge.jar"
 hash-format = "sha512"
-hash = "0b2c52827e3f68f963fc96f5b19441f96cf4b4ff566c50ceac62898936ea79aa7a5b3cbe44de3eae52e68b9d0d3b99be39daceb7884c83ef46929961209876e1"
+hash = "6129e104e6e2cfb5238f9b4f203cc636d470b2f5238101e2b49dc38e994e152f4b00215230cd19e6608b60618e73ff813fd5151427bcf5f9dd1a92743e25e750"
 
 [update]
 [update.modrinth]
 mod-id = "cl223EMc"
-version = "FsQL6FXV"
+version = "VGzwSAM8"

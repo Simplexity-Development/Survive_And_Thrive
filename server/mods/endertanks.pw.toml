@@ -1,0 +1,14 @@
+name = "EnderTanks"
+filename = "endertanks-forge-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zZwEA08D/versions/TgCHwQPr/endertanks-forge-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "840f533d8a8058de3021ee9d63468591fe652c00a095ddb4028b5bafebf458392a061b48169f4189681e4ec3e6d8f261f774d4476bb27961ecf4c0a0795c1b2d"
+
+[update]
+[update.modrinth]
+mod-id = "zZwEA08D"
+version = "TgCHwQPr"

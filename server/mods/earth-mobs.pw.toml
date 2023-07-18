@@ -1,14 +1,14 @@
-name = "Earth Mobs"
-filename = "EarthMobs-1.20.1-7.0.1.jar"
+name = "Earth Mobs Mod"
+filename = "EarthMobs-1.20.1-7.0.2.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/iCTjNgmk/versions/Egr5XnyN/EarthMobs-1.20.1-7.0.1.jar"
+url = "https://cdn.modrinth.com/data/iCTjNgmk/versions/Qmu808TG/EarthMobs-1.20.1-7.0.2.jar"
 hash-format = "sha512"
-hash = "0b45dda82d3836f8c9a6e5c649b2a5fe4c4ca520080ce522c419e9f9f01b44102ac3041828ea26e44ac1352456f6d86153b02961e33f0567875184e729ed4556"
+hash = "410cde35fd2e7835e8fc38ac5511dcb03d2efc70f04a7a324102d2fdd81df02c06dec9122bb157ce999672ca8d9c519d90b866716a89c69076c765369c214751"
 
 [update]
 [update.modrinth]
 mod-id = "iCTjNgmk"
-version = "Egr5XnyN"
+version = "Qmu808TG"

@@ -1,14 +1,14 @@
 name = "Dense Trees"
-filename = "DenseTrees-1.20.1-4.0.0.jar"
+filename = "DenseTrees-1.20.1-4.0.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/FYTkmxDH/versions/5nzbed1s/DenseTrees-1.20.1-4.0.0.jar"
+url = "https://cdn.modrinth.com/data/FYTkmxDH/versions/54ATcbKY/DenseTrees-1.20.1-4.0.1.jar"
 hash-format = "sha512"
-hash = "3f85771c278c78c93c899cab87dfba34ebbdecbfc27a63160d401aacfe32935bf7d16234d2de217d6108d87741b2ccf317c174bdfb2bc6ac2b7c14400208159c"
+hash = "53c016db1ce889efee47367cc899633c4d7567f230a585f25673887b2de4560227e19d5fb3fe37aa4195061a1638dbd7d512582b84c997528a4788f4cafb5b4c"
 
 [update]
 [update.modrinth]
 mod-id = "FYTkmxDH"
-version = "5nzbed1s"
+version = "54ATcbKY"
