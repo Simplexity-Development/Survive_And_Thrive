@@ -1,0 +1,14 @@
+name = "Pickaxe Effective Light Source Blocks"
+filename = "purpurpacks-pickaxe-effective-light-source-blocks-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ERLjKg7g/versions/xKHATB8n/purpurpacks-pickaxe-effective-light-source-blocks-1.0.jar"
+hash-format = "sha512"
+hash = "971189c9527fde36c666c99f6e32826dc1738741f56108f0aac23940402b8359508b8b6bec60e56810ed70c0d5c1b7e8fdcb5cc9dc8f78688c8b0b0c08a11a4d"
+
+[update]
+[update.modrinth]
+mod-id = "ERLjKg7g"
+version = "xKHATB8n"

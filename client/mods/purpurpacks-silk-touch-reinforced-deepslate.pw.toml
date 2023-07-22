@@ -1,0 +1,14 @@
+name = "Silk Touch Reinforced Deepslate"
+filename = "purpurpacks-silk-touch-reinforced-deepslate-1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/B92jc48r/versions/VUn80tbE/purpurpacks-silk-touch-reinforced-deepslate-1.jar"
+hash-format = "sha512"
+hash = "bbcdf22123a96906a175ef43b8b5b7e4414eb7461402f07280be5e4a9b3b5d5e4525bae7749ed0079822ed297242eec9ffe709b09ddd40b7af1964c52c78779f"
+
+[update]
+[update.modrinth]
+mod-id = "B92jc48r"
+version = "VUn80tbE"

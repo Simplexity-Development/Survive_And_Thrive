@@ -1,0 +1,14 @@
+name = "Oculus"
+filename = "oculus-mc1.20-1.6.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/GchcoXML/versions/HxUtDCCe/oculus-mc1.20-1.6.4.jar"
+hash-format = "sha512"
+hash = "3afca1b461248f2b87fe9fc534660488e5bd7dc9d24d1e2d1a46eabdb28c5dcbae9906d4392ee678f7c6f6e4dcb2b694a6ea7765b57e0a3abd4122674a5152cd"
+
+[update]
+[update.modrinth]
+mod-id = "GchcoXML"
+version = "HxUtDCCe"

@@ -1,14 +1,14 @@
 name = "Ash API"
-filename = "ash_api-forge-3.0.0+1.20.1.jar"
+filename = "ash_api-forge-3.0.2+1.20.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/XqHchD8e/ash_api-forge-3.0.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/mfSxdCmQ/ash_api-forge-3.0.2%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "95ef5c35133764a329ae42d13b22ca8ba2646cc47bad0c0cac0e9f1064a3ec4a5a31bcfcc71be7fd4a63fb38460dd3975e277697117ac2dcd1396e20a69184a9"
+hash = "861f413fd6806ba436375d83302facad39440436bafe44c0ae4f145c1dfcdd95ad9c346655ca9976f4743b7c8b8ff65c3364a67bb1e9a468263b7005a28a451c"
 
 [update]
 [update.modrinth]
 mod-id = "Q8xUICr6"
-version = "XqHchD8e"
+version = "mfSxdCmQ"

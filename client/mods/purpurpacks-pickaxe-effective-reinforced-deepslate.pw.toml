@@ -1,0 +1,14 @@
+name = "Pickaxe Effective Reinforced Deepslate"
+filename = "purpurpacks-pickaxe-effective-reinforced-deepslate-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/kbuqezYO/versions/99TPDGvi/purpurpacks-pickaxe-effective-reinforced-deepslate-1.0.jar"
+hash-format = "sha512"
+hash = "8ae963cd5e7e6288d0f124865c383f501be83376757fbdf2bf3c2610ec31d737937f3415f6dffebb50090579028b35ceecee56d1aad36c991ba0b10005ebbf7c"
+
+[update]
+[update.modrinth]
+mod-id = "kbuqezYO"
+version = "99TPDGvi"

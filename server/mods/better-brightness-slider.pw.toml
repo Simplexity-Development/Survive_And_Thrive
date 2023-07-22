@@ -1,0 +1,14 @@
+name = "Better Brightness Slider"
+filename = "brightnessslider-forge-1.0-1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/aXleiZbk/versions/KZyVjqn6/brightnessslider-forge-1.0-1.20.jar"
+hash-format = "sha512"
+hash = "c18d651ec5b00323cfeee6da986bef125517f9f8ea47c4d88f212235b97357846b7a628bfccafd73b4e0e57aa427953e82ca07087ee69dfbea15360401c5ae8e"
+
+[update]
+[update.modrinth]
+mod-id = "aXleiZbk"
+version = "KZyVjqn6"

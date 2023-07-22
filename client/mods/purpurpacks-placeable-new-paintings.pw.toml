@@ -1,0 +1,14 @@
+name = "Placeable New Paintings"
+filename = "purpurpacks-placeable-new-paintings-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UDhPA1TM/versions/mQc9W9bl/purpurpacks-placeable-new-paintings-1.0.jar"
+hash-format = "sha512"
+hash = "0846efa47a18133a9b9fb209e747831fd129a31fc5052bf2ebe37c39b88097ac9b73e14d9d415b27971dafefaf771be9bae754b4829c709b491e37ca3e947f7d"
+
+[update]
+[update.modrinth]
+mod-id = "UDhPA1TM"
+version = "mQc9W9bl"

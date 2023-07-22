@@ -1,0 +1,14 @@
+name = "Re-Dye Terracotta"
+filename = "purpurpacks-re-dye-terracotta-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lANiwxxT/versions/236te2pV/purpurpacks-re-dye-terracotta-1.0.jar"
+hash-format = "sha512"
+hash = "785ec4bb81affbfe5f43df8b69451e74ceaace251fe94928e733ed1fc95d0b8e4352da7480effd98950d2bf74534f382f54158f6b3354f87456cc7af00d82f7a"
+
+[update]
+[update.modrinth]
+mod-id = "lANiwxxT"
+version = "236te2pV"

@@ -1,0 +1,14 @@
+name = "Pickaxe Effective Glass"
+filename = "purpurpacks-pickaxe-effective-glass-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/y87pO5HP/versions/QgwVI4Jc/purpurpacks-pickaxe-effective-glass-1.0.jar"
+hash-format = "sha512"
+hash = "ebc08e284392c81af0f574a922d8453cf0167806923c23453e759fdcd7f99a650718df2ff7517d0132a394d553d291e5652011aa5e3c16d1e07ba303a7c5488a"
+
+[update]
+[update.modrinth]
+mod-id = "y87pO5HP"
+version = "QgwVI4Jc"
