@@ -1,0 +1,14 @@
+name = "Charm of Undying"
+filename = "charmofundying-forge-6.4.2+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/b5GyyYkp/versions/ydhXHYX9/charmofundying-forge-6.4.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "bc86449c31a96e4e0f9e89d009f47e8280c0cded3bdc3f66f9ee6350c0f606936648702e5e6da598e16c10546bcc81230eb370b76e200360cf2dc73d7e1a62cd"
+
+[update]
+[update.modrinth]
+mod-id = "b5GyyYkp"
+version = "ydhXHYX9"

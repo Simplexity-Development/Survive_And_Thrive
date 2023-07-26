@@ -1,0 +1,14 @@
+name = "Majrusz's Accessories"
+filename = "majruszs-accessories-1.20-1.2.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/6roN0iTa/versions/dElXLSyB/majruszs-accessories-1.20-1.2.2.jar"
+hash-format = "sha512"
+hash = "099aa4ca60a012d782d9d5c53a40bac3b5f9eb78eb11cc2f03c73e1fc854e3f396ab9fd4c956cd82b2671bff442350ea75363710505583bfaf60a35e0c7654a2"
+
+[update]
+[update.modrinth]
+mod-id = "6roN0iTa"
+version = "dElXLSyB"

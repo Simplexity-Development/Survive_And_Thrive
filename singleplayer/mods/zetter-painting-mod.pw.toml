@@ -1,0 +1,14 @@
+name = "Zetter — Painting Mod"
+filename = "zetter-1.20-0.21.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZmLgjf6f/versions/Kn2up7Xf/zetter-1.20-0.21.4.jar"
+hash-format = "sha512"
+hash = "fdb2de64be0e1c71a0db1876c90385bd7002d9c3e16e92809b8d7fb6c07ba717502e25f140851060df9c2902594a1467113d89acb940cbe01d5fa1cdcac0764a"
+
+[update]
+[update.modrinth]
+mod-id = "ZmLgjf6f"
+version = "Kn2up7Xf"

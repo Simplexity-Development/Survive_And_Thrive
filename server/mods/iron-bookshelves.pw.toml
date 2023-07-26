@@ -1,14 +1,14 @@
-name = "Iron Bookshelves (Forge)"
-filename = "ironbookshelves-1.20-1.1.0-forge.jar"
+name = "Iron Bookshelves"
+filename = "ironbookshelves-1.20.1-1.1.1-forge.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/QmCOBeSP/versions/vfbmMtdP/ironbookshelves-1.20-1.1.0-forge.jar"
+url = "https://cdn.modrinth.com/data/QmCOBeSP/versions/18SyeyxV/ironbookshelves-1.20.1-1.1.1-forge.jar"
 hash-format = "sha512"
-hash = "5a1c1d3f43448d36faa4d49de63bf3a263980d60ac68871320c3a10774bebfb0b115fcc79820ef4590dee946fe5921b0333961c6dfd2afb647e93871b9d310db"
+hash = "c894b06b3c385123f7c9bfed870317310e9707124b6df89a56d5e048140d9439c0ea3ac5ae3999e1acb01f50c6abb687d4486bb7956822a9c07b6eacbbbe4f71"
 
 [update]
 [update.modrinth]
 mod-id = "QmCOBeSP"
-version = "vfbmMtdP"
+version = "18SyeyxV"

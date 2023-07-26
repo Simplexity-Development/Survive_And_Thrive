@@ -1,0 +1,14 @@
+name = "Just Enough Advancements (JEA)"
+filename = "JustEnoughAdvancements-1.20.1-5.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5JY3QNIB/versions/uJz3Sdhn/JustEnoughAdvancements-1.20.1-5.0.1.jar"
+hash-format = "sha512"
+hash = "d2babe9a6ca6492a17a50eaedb26a26a3312d2dfb33fa5e067d645a6bec4cdd1ff300f5049b73ae65b1a4baa28aa32c1a580fc1d0aafe023db3e3dd9dea560b8"
+
+[update]
+[update.modrinth]
+mod-id = "5JY3QNIB"
+version = "uJz3Sdhn"

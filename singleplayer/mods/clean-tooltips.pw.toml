@@ -1,0 +1,14 @@
+name = "Clean Tooltips"
+filename = "clean_tooltips-1.0-forge-1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/vMoHe8uI/versions/s0jBE8yz/clean_tooltips-1.0-forge-1.20.jar"
+hash-format = "sha512"
+hash = "92056bb063edbfd7349215cb98a945b65ae972c5e07ffe63004ac9b122e842379ccb48ed0720c146fe7ab5daf498359fefd7f79a6ea889c8e408adc50714e796"
+
+[update]
+[update.modrinth]
+mod-id = "vMoHe8uI"
+version = "s0jBE8yz"

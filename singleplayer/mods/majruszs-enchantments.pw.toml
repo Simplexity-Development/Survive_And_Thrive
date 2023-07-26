@@ -1,0 +1,14 @@
+name = "Majrusz's Enchantments"
+filename = "majruszs-enchantments-1.20-1.9.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/jJthQvHv/versions/p7sg2rET/majruszs-enchantments-1.20-1.9.0.jar"
+hash-format = "sha512"
+hash = "cdaa16064576504ee1e0fe1f24eae3bbe00cba5d8982896cc28bbf159cd0d48eba26170a75a35b2a5f7dc5bfc2a2a1b4f653d58268e62c8d3a55b3f00302ed01"
+
+[update]
+[update.modrinth]
+mod-id = "jJthQvHv"
+version = "p7sg2rET"

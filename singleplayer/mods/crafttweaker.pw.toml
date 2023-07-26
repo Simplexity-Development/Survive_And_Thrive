@@ -1,0 +1,14 @@
+name = "CraftTweaker"
+filename = "CraftTweaker-forge-1.20.1-14.0.10.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/W0TNBOAx/CraftTweaker-forge-1.20.1-14.0.10.jar"
+hash-format = "sha512"
+hash = "d035fe5b3031426a0a6f4dd4a8d9bab2af8831cced807292c8f00a2d13f21c0bd8f89f445d23354bb7321068ac996bfdc55ac66906e5bfc2904d26b147d8dfb1"
+
+[update]
+[update.modrinth]
+mod-id = "Xg35A4rS"
+version = "W0TNBOAx"

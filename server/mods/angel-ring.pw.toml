@@ -1,0 +1,14 @@
+name = "Angel Ring"
+filename = "AngelRing2-1.20.1-2.2.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "8753ee47f2cbf56ca7514270aa8b2e8ad6bb498f"
+
+[update]
+[update.curseforge]
+file-id = 4641785
+project-id = 333396

@@ -1,0 +1,14 @@
+name = "Falling Leaves (Forge)"
+filename = "Fallingleaves-1.20-2.1.0-beta.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2JAUNCL4/versions/eTqAeXTY/Fallingleaves-1.20-2.1.0-beta.1.jar"
+hash-format = "sha512"
+hash = "c13a3c1fe5f12c7087c8971564c18c81e19d9e90f81d2cb5087b6c521bb1cc029ef97899d79f5fce85e4a91cfdaf462f819c1a85cb74194cc4f5e6e2257d1131"
+
+[update]
+[update.modrinth]
+mod-id = "2JAUNCL4"
+version = "eTqAeXTY"
