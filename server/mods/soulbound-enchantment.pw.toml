@@ -1,0 +1,14 @@
+name = "Soulbound Enchantment"
+filename = "Soulbound-Forge-0.1-fixed.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MmUmcwom/versions/gr4CsBRR/Soulbound-Forge-0.1-fixed.jar"
+hash-format = "sha512"
+hash = "6b6edd15e3fd53846eaa104af73d4d92999721637d8dbb3f674095e4101adaf1f347a47f50f50ef0292b6bd77313ea8a98ea291d6d9dd2025ac320cbad567582"
+
+[update]
+[update.modrinth]
+mod-id = "MmUmcwom"
+version = "gr4CsBRR"

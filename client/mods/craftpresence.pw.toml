@@ -4,11 +4,11 @@ side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/rsqVlrs9/CraftPresence-2.2.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/VSWWJnWN/CraftPresence-2.2.0%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "8e3df48223e7476ac332efff64fac45f7db4f003ee0554b16ba1de7f3ccdd3ee030b9c3ee0d0f3ac603c4ebcacc81148b52ee53ede0a556a0aff9eff2a7ecefa"
+hash = "3f4623067f93c08197f75e142b4907f6ac7b70c616565925333b3a7898ef5723c983bd64ccf695d08f75c18cb2d2c78edd67331a0059c8d6aae7c62ccbcd2bb3"
 
 [update]
 [update.modrinth]
 mod-id = "DFqQfIBR"
-version = "rsqVlrs9"
+version = "VSWWJnWN"

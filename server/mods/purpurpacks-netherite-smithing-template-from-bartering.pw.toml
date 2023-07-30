@@ -1,0 +1,14 @@
+name = "Netherite Smithing Template From Bartering"
+filename = "purpurpacks-netherite-smithing-template-from-bartering-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fffp1OgS/versions/TVJTsidj/purpurpacks-netherite-smithing-template-from-bartering-1.0.jar"
+hash-format = "sha512"
+hash = "fd359dc391ea4fc1d8483ae06b3f27010b01fe808af6630008ca187fec0677608cf89eb99a6a7e5cfb89e2943f890b91d362183f7da16ed3083a0782e239b44c"
+
+[update]
+[update.modrinth]
+mod-id = "fffp1OgS"
+version = "TVJTsidj"

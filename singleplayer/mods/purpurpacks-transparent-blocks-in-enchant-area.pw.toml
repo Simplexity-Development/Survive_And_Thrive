@@ -1,0 +1,14 @@
+name = "Transparent Blocks In Enchant Area"
+filename = "purpurpacks-transparent-blocks-in-enchant-area-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NhxPgV4c/versions/4bOZw5fh/purpurpacks-transparent-blocks-in-enchant-area-1.0.jar"
+hash-format = "sha512"
+hash = "11c9fa981298902f6f979f33605f72342562ec3d8af0418c01fc36a2e898891d86cae57f36077c0768f57507f4937d1f7d5c99bd601f088fa64aa543ee750cd5"
+
+[update]
+[update.modrinth]
+mod-id = "NhxPgV4c"
+version = "4bOZw5fh"

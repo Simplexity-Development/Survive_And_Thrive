@@ -1,12 +1,12 @@
 name = "Survive and Thrive"
 author = "Rhythmic System"
-version = "0.0.8-server"
+version = "0.0.9-server"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e6c6985e10a6d40bb53751bcf143b837cb80b5d01bef11c1fd8614952b89ab05"
+hash = "4901974d162dea506700dadab6061d1731c90d59f75152f5c6d3859ed719bc6c"
 
 [versions]
 forge = "47.1.0"

@@ -1,0 +1,14 @@
+name = "Forge Config Screens"
+filename = "ForgeConfigScreens-v8.0.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5WeWGLoJ/versions/1jVBPRNS/ForgeConfigScreens-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "41c51913dbc7a2220a18ad8359f595e3292eeb1ff157c5155122f9a43fac7b26c32f58fb2e8270669121363323ce17824002ffc1dc43be70a745d6205f3f829a"
+
+[update]
+[update.modrinth]
+mod-id = "5WeWGLoJ"
+version = "1jVBPRNS"

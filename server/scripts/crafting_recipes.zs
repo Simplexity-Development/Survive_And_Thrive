@@ -11,3 +11,7 @@ craftingTable.addShapeless("dyed_orange_tulip_white", <item:minecraft:white_tuli
 craftingTable.addShapeless("dyed_white_tulip_pink", <item:minecraft:pink_tulip>, [<item:minecraft:pink_dye>, <item:minecraft:white_tulip>]);
 craftingTable.addShapeless("dyed_red_tulip_pink", <item:minecraft:pink_tulip>, [<item:minecraft:pink_dye>, <item:minecraft:red_tulip>]);
 craftingTable.addShapeless("dyed_orange_tulip_pink", <item:minecraft:pink_tulip>, [<item:minecraft:pink_dye>, <item:minecraft:orange_tulip>]);
+craftingTable.addShapeless("unpack_copper_block", <item:minecraft:copper_ingot>*9, [<item:minecraft:copper_block>]);
+craftingTable.addShapeless("unpack_clay_block", <item:minecraft:clay_ball>*4, [<item:minecraft:clay>]);
+craftingTable.addShapeless("unpack_quartz_block", <item:minecraft:quartz>*4, [<item:minecraft:quartz_block>]);
+craftingTable.addShapeless("unpack_honeycomb_block", <item:minecraft:honeycomb>*4, [<item:minecraft:honeycomb_block>]);

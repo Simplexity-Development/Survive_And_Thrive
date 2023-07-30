@@ -1,0 +1,14 @@
+name = "Hoe Effective Cactus"
+filename = "hoe-effective-cactus-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Xqq7IBeE/versions/W9qn5Dpa/hoe-effective-cactus-1.0.jar"
+hash-format = "sha512"
+hash = "f47ad00b593b347bd4926a6545b450e47c739ae0eb0f5e986a55b96de1600bd9ba80c85956deaab396aa3757f9cb5b1fb536a573b26604c8e7c1002eb77bbf03"
+
+[update]
+[update.modrinth]
+mod-id = "Xqq7IBeE"
+version = "W9qn5Dpa"

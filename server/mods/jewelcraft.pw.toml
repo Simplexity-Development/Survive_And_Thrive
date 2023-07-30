@@ -1,14 +1,14 @@
 name = "Jewelcraft"
-filename = "Jewelry-1.4.3.jar"
+filename = "Jewelry-1.5.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/k2HyfPfj/versions/HrE4wqXm/Jewelry-1.4.3.jar"
+url = "https://cdn.modrinth.com/data/k2HyfPfj/versions/2f6JVWEl/Jewelry-1.5.1.jar"
 hash-format = "sha512"
-hash = "047ca4559263bd6ac18904e5e865dd0608a4d7838ec37b44c51c39101c066731b38297905fe94bad109dce492314f82f2a26cce9af708bba2825ad445d572d0b"
+hash = "c403e2439a334e10643bc2bf85781d7acd5124be85c03323f1a21f8b8d17ec30515695c8b24b6bea519441664fc87c0fe3782bd21c5c8017a480cf938daf97b6"
 
 [update]
 [update.modrinth]
 mod-id = "k2HyfPfj"
-version = "HrE4wqXm"
+version = "2f6JVWEl"

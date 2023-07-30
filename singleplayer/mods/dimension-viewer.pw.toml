@@ -1,0 +1,14 @@
+name = "Dimension Viewer"
+filename = "dimensionviewer-1.20-1.4.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3aeFezQk/versions/9t3mhqTS/dimensionviewer-1.20-1.4.0.jar"
+hash-format = "sha512"
+hash = "8076fe218b8a3c64a3d41a96be89475f9fc95692e76351434990efcbb3c1dc6fc8b81804f6a9e6a455b998d4635688e5acfdf2abc89f2cc4f6aff837eea05723"
+
+[update]
+[update.modrinth]
+mod-id = "3aeFezQk"
+version = "9t3mhqTS"

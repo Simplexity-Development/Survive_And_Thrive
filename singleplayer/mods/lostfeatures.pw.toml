@@ -1,14 +1,14 @@
 name = "Lost Features"
-filename = "LostFeatures-forge-1.20.1-0.7.2.jar"
+filename = "LostFeatures-0.7.2.1-Forge-1.20.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/hNRL1Wry/versions/VZGwzRbv/LostFeatures-forge-1.20.1-0.7.2.jar"
+url = "https://cdn.modrinth.com/data/hNRL1Wry/versions/4OlKkCco/LostFeatures-0.7.2.1-Forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "ecc90d3ee2fd11a0d96755989845b7445ded756c77e86fa852744306dc90c4294be84745d7948a4ac0f5143984a35f9687d1407829b7e6f17cd67c4a051aa595"
+hash = "86b4edb655a5cff1a2b7131710596ec2910baa8bcfec64d12c50768bcd9c1e1c65a9ca54beaea98245e9bf27fce139efb342e1b1d2599ee8187c892179eddd34"
 
 [update]
 [update.modrinth]
 mod-id = "hNRL1Wry"
-version = "VZGwzRbv"
+version = "4OlKkCco"
